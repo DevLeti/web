@@ -2,8 +2,11 @@
 
 개인적으로 웹에서 쓸만하다 생각하는 외부 라이브러리들 정리.
 
+## website
+1. [LOLCOLORS](https://www.webdesignrankings.com/resources/lolcolors)
+   - 컬러팔레트.
 
-
+## js
 1. [slick.js](http://kenwheeler.github.io/slick/)
    - 간단하게 구현 가능한 슬라이더 라이브러리. 직접 들어가서 코드 보면 되게 쉽게 되어있다.
 2. [fullPage.js](https://alvarotrigo.com/fullPage/ko/)
