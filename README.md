@@ -20,8 +20,8 @@
    - 시간을 나타내는 형식(format dates)을 다양하게 표현할 수 있음
    - 시간 비교&계산(Relative & Calendar Time), Multiple Locale을 지원.
    - [MIT License](https://github.com/zenorocha/clipboard.js/blob/master/LICENSE)여서 상업 이용 가능.
-4. [Day.js](https://momentjs.com/)
+4. [Day.js](https://day.js.org/en/)
    - moment.js의 경량화 버젼 라이브러리. 2KB로 매우 작은 용량이 특징.
-   - 변경 불가능(immutable)해서 변수에 할당된 day.js 객체를 add, subtract등으로 값을 변경하면 다시 변수에 할당해줘야함.
+   - 변경 불가능(immutable)해서 변수에 할당된 day.js 객체를 add, subtract등으로 값을 변경하면 다시 변수에 할당해줘야하는 차이점이 있다.
    - 추가 기능은 플러그인으로 지원 (Timezone, Locale 등등)
    - 많은 기능이 필요하지 않으면 이쪽이 괜찮은 선택일 것 같다.
